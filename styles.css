@@ -18,16 +18,20 @@ position: fixed;
 }
 
 #zon {
-position: fixed;
-    overflow: hidden;    top: -30px;
-z-index: 21786317;    height: 100px;
+    position: fixed;
+    overflow: inherit;     
+    top: -30px;
+    z-index: 21786317;    
+    height: 100px;
 }
 
 #maan {
     display: none;
-position: fixed;
-    overflow: hidden;    top: -30px;
-z-index: 21786317;    height: 100px;
+    position: fixed;
+    overflow: inherit;    
+    top: -30px;
+    z-index: 21786317;    
+    height: 100px;
 }
 
 .animaties img {
