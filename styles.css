@@ -88,7 +88,14 @@ button:focus {outline:0;}
     position: absolute;
 }
 
-
+#gras {
+    position: fixed;
+    width: 120%;
+    bottom: 0;
+    left: -10%;
+    z-index: 15;
+    overflow: hidden;
+}
 
 .z-index {
     z-index: 12;
